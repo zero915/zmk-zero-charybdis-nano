@@ -209,7 +209,8 @@
                 <&macro_wait_time 2000>,
                 <&kp LC(LS(N1)) &kp LC(R)>,
                 <&macro_wait_time 50>,
-                <&kp S &kp T &kp U &kp D &kp RET>;
+                <&kp N &kp G &kp R &kp O &kp K &kp SPACE>,
+                <&macro_wait_time 2000>;
         };
     };
 
