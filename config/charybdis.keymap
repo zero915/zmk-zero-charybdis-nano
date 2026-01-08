@@ -210,10 +210,15 @@
                 <&kp LC(LS(N1))>,
                 <&macro_wait_time 50>,
                 <&kp LC(R)>,  // press Control+R
+                <&macro_wait_time 50>,
                 <&kp N>,      // press N
+                <&macro_wait_time 50>,
                 <&kp G>,      // press G
+                <&macro_wait_time 50>,
                 <&kp R>,      // press R
+                <&macro_wait_time 50>,
                 <&kp O>,      // press O
+                <&macro_wait_time 50>,
                 <&kp RET>;    // press Enter
         };
     };
