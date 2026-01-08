@@ -209,7 +209,7 @@
                 <&macro_wait_time 2000>,
                 <&kp LC(LS(N1))>,
                 <&macro_wait_time 50>,
-                <&kp LC(R)>,  // press Control+R
+                <&macro_press LC(R) &kp R &macro_release LC(R)>,  // press Control+R
                 <&macro_wait_time 50>,
                 <&kp N>,      // press N
                 <&macro_wait_time 50>,
