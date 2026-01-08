@@ -214,7 +214,7 @@
                 <&kp G>,      // press G
                 <&kp R>,      // press R
                 <&kp O>,      // press O
-                <&kp RET>,    // press Enter
+                <&kp RET>;    // press Enter
         };
     };
 
