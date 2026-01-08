@@ -60,7 +60,7 @@
         zephyr,axis-x = <INPUT_REL_X>;
         zephyr,axis-y = <INPUT_REL_Y>;
 
-        scroll-layers = <1>;
+        // scroll-layers = <1>;
         // snipe-layers = <2>;
         // automouse-layer = <3>;
     };
