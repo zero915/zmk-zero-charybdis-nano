@@ -197,7 +197,7 @@
                 <&macro_wait_time 2000>,
                 <&kp LC(LS(N5)) &kp LC(R)>,
                 <&macro_wait_time 50>,
-                <&kp R &kp U &kp N &kp SPACE &kp D &kp RET>,
+                <&kp R &kp U &kp N &kp SPACE &kp RET>,
                 <&macro_wait_time 2000>,
                 <&kp LC(LS(N5)) &kp LC(R)>,
                 <&macro_wait_time 50>,
@@ -209,7 +209,7 @@
                 <&macro_wait_time 2000>,
                 <&kp LC(LS(N1)) &kp LC(R)>,
                 <&macro_wait_time 50>,
-                <&kp N &kp G &kp R &kp O &kp RET>;
+                <&kp N &kp G &kp RET>;
         };
     };
 
