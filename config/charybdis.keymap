@@ -207,19 +207,9 @@
                 <&macro_wait_time 50>,
                 <&kp R &kp U &kp N &kp S &kp E &kp RET>,
                 <&macro_wait_time 2000>,
-                <&kp LC(LS(N1))>,
+                <&kp LC(LS(N1)) &kp LC(R)>,
                 <&macro_wait_time 50>,
-                <&macro_press LC(R) &kp R &macro_release LC(R)>,  // press Control+R
-                <&macro_wait_time 50>,
-                <&kp N>,      // press N
-                <&macro_wait_time 50>,
-                <&kp G>,      // press G
-                <&macro_wait_time 50>,
-                <&kp R>,      // press R
-                <&macro_wait_time 50>,
-                <&kp O>,      // press O
-                <&macro_wait_time 50>,
-                <&kp RET>;    // press Enter
+                <&kp N &kp G &kp R &kp O &kp K>;
         };
     };
 
