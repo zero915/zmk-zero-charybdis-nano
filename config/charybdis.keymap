@@ -209,7 +209,12 @@
                 <&macro_wait_time 2000>,
                 <&kp LC(LS(N1))>,
                 <&macro_wait_time 50>,
-                <&kp LC(R) &kp N &kp G &kp R &kp O &kp RET>;
+                <&kp LC(R)>,  // press Control+R
+                <&kp N>,      // press N
+                <&kp G>,      // press G
+                <&kp R>,      // press R
+                <&kp O>,      // press O
+                <&kp RET>,    // press Enter
         };
     };
 
