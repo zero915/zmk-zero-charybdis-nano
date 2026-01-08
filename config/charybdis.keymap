@@ -207,9 +207,9 @@
                 <&macro_wait_time 50>,
                 <&kp R &kp U &kp N &kp S &kp E &kp RET>,
                 <&macro_wait_time 2000>,
-                <&kp LC(LS(N1)) &kp LC(R)>,
+                <&kp LC(LS(N1))>,
                 <&macro_wait_time 50>,
-                <&kp S &kp T &kp U &kp D &kp RET>;
+                <&kp LC(R) &kp N &kp G &kp R &kp O &kp RET>;
         };
     };
 
